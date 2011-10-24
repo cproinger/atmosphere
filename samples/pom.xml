@@ -38,6 +38,7 @@
         <module>atmosphere-ee6</module>
         <module>di-guice-sample</module>
         <module>channel</module>
+        <module>jetty-jersey-rest</module>
     </modules>
     <build>
         <finalName>${artifactId}</finalName>
